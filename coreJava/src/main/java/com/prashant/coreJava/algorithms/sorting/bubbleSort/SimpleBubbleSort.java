@@ -2,6 +2,10 @@ package com.prashant.coreJava.algorithms.sorting.bubbleSort;
 
 import java.util.Arrays;
 
+//Bubble sort Worst case performance       O(n^2)
+//Bubble sort Best case performance        O(n)
+//Bubble sort Average case performance     O(n^2)
+
 public class SimpleBubbleSort {
 
 	public static void bubbleSort(int[] numbers) {
